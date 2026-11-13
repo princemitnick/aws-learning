@@ -1,0 +1,5 @@
+identifier les exigences du réseau, telles que les VPC, les sous-réseaux, les groupes de sécurité, les passerelles et les NACL ;
+
+identifier les exigences de calcul, telles que la taille et le type d'instance ;
+
+identifier les besoins de stockage, y compris le stockage informatique et les bases de données.
